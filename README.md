@@ -50,7 +50,7 @@ I once coded for 24 hours straight to finish a project, fueled by coffee and she
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriar2880&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriar2880&show_icons=true&theme=transparent)
 
 ---
 
