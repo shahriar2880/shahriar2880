@@ -2,32 +2,11 @@
 # Hi, I'm Shahriar Reza Shakil! 👋
 </p>
 
+<p align="center">
 ### 💻 About Me
 I'm a passionate **Software Developer** with a love for building innovative solutions and exploring cutting-edge technologies. I thrive on solving complex problems and turning ideas into reality through code.
-
+</p>
 ---
-<p align="center">
-    <a href="https://github.com/shahriar2880/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/shahriar2880/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/shahriar2880/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/shahriar2880/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/shahriar2880/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/shahriar2880/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/shahriar2880/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/shahriar2880/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/shahriar2880/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/shahriar2880/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/shahriar2880/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/shahriar2880/github-readme-stats/badge" />
-    </a>
-    <br />
-    <br />
-  </p>
 
 ### 🛠️ Tech Stack
 Here are some of the tools and technologies I work with:
