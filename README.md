@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center" text>
 # Hi, I'm Shahriar Reza Shakil! 👋
-</p>
+</h1>
 
 <p align="center">
 ### 💻 About Me
