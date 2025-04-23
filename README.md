@@ -52,6 +52,8 @@ I once coded for 24 hours straight to finish a project, fueled by coffee and she
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriar2880&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar2880&hide_progress=true)
+
 ---
 
 <!---
